@@ -1,0 +1,159 @@
+{
+  "seller": [
+    {
+      "name": "Riiju Jagetiya",
+      "email": "email.5@gmail.com",
+      "password": "qnetw1234",
+      "id": 1
+    },
+    {
+      "name": "Sidhu Sethiya",
+      "email": "emaaill.5@gmail.com",
+      "password": "qnetdfghyhw1234",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "stark@1234",
+      "email": "tony@test.com",
+      "id": 3
+    },
+    {
+      "name": "Technical MCQ",
+      "password": "gddsesesrft",
+      "email": "email.1@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "END",
+      "password": "ggydrsrghggtdrtse",
+      "email": "hello@gmail.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14 pro max",
+      "price": "140000",
+      "category": "mobiles",
+      "color": "gold",
+      "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._SX522_.jpg",
+      "description": "Hello users enjoy your Iphone 14 pro max",
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": "125000",
+      "category": "mobiles",
+      "color": "green",
+      "image": "https://m.media-amazon.com/images/I/61VfL-aiToL._SL1500_.jpg",
+      "description": "Hello users enjoy your Samsung Galaxy S23 Ultra",
+      "id": 2
+    },
+    {
+      "name": "Macbook Pro 16 inch",
+      "price": "239900",
+      "category": "laptops",
+      "color": "grey",
+      "image": "https://m.media-amazon.com/images/I/61Y30DpqRVL._SX522_.jpg",
+      "description": "Hello users enjoy your Macbook pro 16 inch",
+      "id": 3
+    },
+    {
+      "name": "Apple Airpods Pro 2",
+      "price": "25000",
+      "category": "earphones",
+      "color": "white",
+      "image": "https://www.apple.com/newsroom/images/product/airpods/standard/Apple-AirPods-Pro-2nd-gen-hero-220907_big.jpg.large.jpg",
+      "description": "Hello users enjoy your Apple Airpods Pro 2",
+      "id": 4
+    },
+    {
+      "name": "Apple Watch Ultra",
+      "price": "90000",
+      "category": "smartwatches",
+      "color": "Orange",
+      "image": "https://m.media-amazon.com/images/I/91z5KuonXrL._SX522_.jpg",
+      "description": "Hello users enjoy your Apple Watch Ultra",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Riiju Jagetiya ",
+      "email": "hello@gmail.com",
+      "password": "Khwtl@1234",
+      "id": 1
+    },
+    {
+      "name": "Technical MCQ",
+      "email": "email.1@gmail.com",
+      "password": "khtujig123",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "name": "Macbook Pro 16 inch",
+      "price": "239900",
+      "category": "laptops",
+      "color": "grey",
+      "image": "https://m.media-amazon.com/images/I/61Y30DpqRVL._SX522_.jpg",
+      "description": "Hello users enjoy your Macbook pro 16 inch",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Iphone 14 pro max",
+      "price": "140000",
+      "category": "mobiles",
+      "color": "gold",
+      "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._SX522_.jpg",
+      "description": "Hello users enjoy your Iphone 14 pro max",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 2
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": "125000",
+      "category": "mobiles",
+      "color": "green",
+      "image": "https://m.media-amazon.com/images/I/61VfL-aiToL._SL1500_.jpg",
+      "description": "Hello users enjoy your Samsung Galaxy S23 Ultra",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "email": "hello@gmail.com",
+      "address": "KURLA ROAD",
+      "contact": "999999999",
+      "totalPrice": 896540,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "gehd@gmail.com",
+      "address": "ejhdwghrgfhe",
+      "contact": "6453443",
+      "totalPrice": 264040,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "email": "hello@gmail.com",
+      "address": "yrdrrerererrr",
+      "contact": "7766566767",
+      "totalPrice": 137540,
+      "userId": 2,
+      "id": 4
+    }
+  ]
+}
